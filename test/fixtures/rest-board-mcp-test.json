@@ -1,0 +1,280 @@
+{
+  "elements": {
+    "1Xe000TESTCL02": {
+      "_id": "1Xe000TESTCL02",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL01",
+        "position": {
+          "x": 67,
+          "y": 58,
+          "score": 2883584
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "title": "MCP-TEST",
+        "icon": {
+          "type": "mn-svg",
+          "id": "game-console-handheld",
+          "name": "Handheld Game Console",
+          "svg": "<removed>",
+          "png": "<removed>"
+        },
+        "color": "#839fc3",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#7db4c0",
+          "#80c7ca",
+          "#a8dadc",
+          "#c9d4c7",
+          "#e4d1b6",
+          "#f09035",
+          "#ed6c18"
+        ],
+        "autoColorIndex": 75,
+        "inbox": "OPEN",
+        "inboxAutomaticOpenTimestamp": 1791469745499
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1791469540587,
+        "modifiedTime": 1791469745608,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1791469540587,
+        "versionId": "vers_0003",
+        "significantModified": 1791469544293
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL02"
+    },
+    "1Xe000TESTCL01": {
+      "_id": "1Xe000TESTCL01",
+      "elementType": "BOARD",
+      "location": {
+        "rootBoard": true
+      },
+      "content": {
+        "title": "Home",
+        "icon": null,
+        "color": null,
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#e9785e",
+          "#dda16d",
+          "#d5b3a3",
+          "#d1cbc6",
+          "#accde1",
+          "#98c1d9",
+          "#839fc3"
+        ],
+        "rootType": "WORKSPACE",
+        "inbox": "CLOSED",
+        "mobileInboxAutomaticOpenTimestamp": 1790244113148,
+        "inboxAutomaticOpenTimestamp": 1781538116724,
+        "canvasOrigin": {
+          "x": -7,
+          "y": -8
+        }
+      },
+      "acl": {
+        "000000000000000000000001": 31
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedTime": 1790250877538,
+        "significantModified": 1749730448706,
+        "locationSectionModifiedTime": 1749730448706,
+        "createdTime": 1749730448706,
+        "modifiedBy": "000000000000000000000001"
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL01"
+    },
+    "1Xe000TESTCL03": {
+      "_id": "1Xe000TESTCL03",
+      "elementType": "LINK",
+      "location": {
+        "parentId": "1Xe000TESTCL02",
+        "position": {
+          "x": 25,
+          "y": 13,
+          "score": 65536
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "url": null,
+        "mediaType": "NO_MEDIA",
+        "link": {
+          "url": "https://example.com",
+          "title": "Example Domain"
+        },
+        "provider": {
+          "url": "http://example.com",
+          "name": "example",
+          "display": "example"
+        },
+        "caption": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes."
+                }
+              ]
+            }
+          ]
+        },
+        "showCaption": true
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1791469608812,
+        "modifiedTime": 1791469611415,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1791469608812,
+        "versionId": "vers_0003",
+        "significantModified": 1791469608812
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL03"
+    },
+    "1Xe000TESTCL04": {
+      "_id": "1Xe000TESTCL04",
+      "elementType": "CARD",
+      "location": {
+        "parentId": "1Xe000TESTCL02",
+        "position": {
+          "x": 25,
+          "y": 40,
+          "score": 131072
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "textContent": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "key": "be7iQ",
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Titre test MCP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "key": "ZsLwN",
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Texte de test "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "gras"
+                },
+                {
+                  "type": "text",
+                  "text": " fin."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1791469645488,
+        "modifiedTime": 1791469649277,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1791469645488,
+        "versionId": "vers_0005",
+        "significantModified": 1791469649277
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL04"
+    },
+    "1Xe000TESTCL05": {
+      "_id": "1Xe000TESTCL05",
+      "elementType": "IMAGE",
+      "location": {
+        "parentId": "1Xe000TESTCL02",
+        "position": {
+          "index": 0,
+          "score": 0
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "image": {
+          "width": 64,
+          "height": 64,
+          "original": "https://app.milanote.com/media/p/images/1Xe000TESTCL05/xyz/mcp-test-image.png",
+          "transparent": false,
+          "thumb": "data:image/gif;base64,R0lGODlhAQABAIEAAExpcX5+tExpcQAAACH5BAUAAAAALAAAAAABAAEAAAICTAEAOw==",
+          "primaryColor": "#7e7eb4",
+          "huge": "https://app.milanote.com/media/p/images/1Xe000TESTCL05/xyz/mcp-test-image.png",
+          "large": "https://app.milanote.com/media/p/images/1Xe000TESTCL05/xyz/mcp-test-image.png",
+          "regular": "https://app.milanote.com/media/p/images/1Xe000TESTCL05/xyz/mcp-test-image.png"
+        },
+        "attachmentId": "000000000000000000000009",
+        "file": {
+          "type": "IMAGE",
+          "ext": "png",
+          "mime": "image/png",
+          "filename": "mcp-test-image.png",
+          "size": 7828,
+          "lastModified": 1791469673953
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1791469745570,
+        "modifiedTime": 1791469746286,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1791469745570,
+        "versionId": "vers_0003",
+        "significantModified": 1791469746286
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL05"
+    }
+  },
+  "comments": {},
+  "labels": {},
+  "errors": {},
+  "childrenReturned": {
+    "1Xe000TESTCL02": true
+  },
+  "canvasOrder": {},
+  "boardIds": [
+    "1Xe000TESTCL02"
+  ],
+  "elementCount": 5,
+  "commentCount": 0,
+  "errorCount": 0,
+  "fetchedTime": 1791470118718
+}

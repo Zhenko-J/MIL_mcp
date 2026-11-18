@@ -1,0 +1,53 @@
+{
+  "type": "ELEMENT_SET_TYPE",
+  "id": "1Xe000TESTCL03",
+  "elementType": "LINK",
+  "changes": {
+    "image": {},
+    "mediaType": "NO_MEDIA",
+    "link": {
+      "url": "https://example.com",
+      "title": "Example Domain"
+    },
+    "provider": {
+      "url": "http://example.com",
+      "name": "example",
+      "display": "example"
+    },
+    "caption": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes."
+            }
+          ]
+        }
+      ]
+    },
+    "showCaption": true
+  },
+  "sync": true,
+  "timestamp": 1791469611205,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT02",
+    "clientTick": 10
+  },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02",
+    "elementTypes": {
+      "1Xe000TESTCL03": "LINK"
+    }
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

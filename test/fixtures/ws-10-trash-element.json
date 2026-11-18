@@ -1,0 +1,42 @@
+{
+  "type": "ELEMENT_MOVE_MULTI",
+  "moves": [
+    {
+      "id": "1Xe000TESTCL03",
+      "location": {
+        "parentId": "1Xe000TESTCL02-trash",
+        "section": "TRASH",
+        "position": {
+          "addedDate": 1791549593671,
+          "restoreLocation": {
+            "parentId": "1Xe000TESTCL02",
+            "position": { "x": 25, "y": 190, "score": 458752 },
+            "section": "CANVAS"
+          }
+        }
+      },
+      "from": {
+        "parentId": "1Xe000TESTCL02",
+        "position": { "x": 25, "y": 190, "score": 458752 },
+        "section": "CANVAS"
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1791549593673,
+  "moveOperation": "TRASH",
+  "monitoring": { "operation": "TRASH" },
+  "user": { "_id": "000000000000000000000001", "clientId": "CLNT04", "clientTick": 95 },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "sourceBoardId": "1Xe000TESTCL02",
+    "isSourceShared": false,
+    "destinationBoardId": "1Xe000TESTCL02-trash",
+    "isDestinationShared": false,
+    "elementTypes": { "1Xe000TESTCL03": "LINK" }
+  },
+  "deviceId": "devi_0004",
+  "sessionId": "sess_0004",
+  "channels": ["1Xe000TESTCL02"]
+}

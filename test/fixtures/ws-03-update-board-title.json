@@ -1,0 +1,43 @@
+{
+  "type": "ELEMENT_UPDATE",
+  "updates": [
+    {
+      "id": "1Xe000TESTCL02",
+      "changes": {
+        "icon": {
+          "type": "mn-svg",
+          "id": "game-console-handheld",
+          "name": "Handheld Game Console",
+          "svg": "<removed>",
+          "png": "<removed>"
+        },
+        "title": "MCP-TEST",
+        "color": "#839fc3",
+        "secondaryColor": null,
+        "autoColorIndex": 75
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1791469544140,
+  "recalculateChannels": false,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT01",
+    "clientTick": 815
+  },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL01",
+    "elementTypes": {
+      "1Xe000TESTCL02": "BOARD"
+    }
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL01",
+    "1Xe000TESTCL02"
+  ]
+}

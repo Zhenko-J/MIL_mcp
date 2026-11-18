@@ -1,0 +1,1028 @@
+{
+  "elements": {
+    "1Xe000TESTCL01": {
+      "_id": "1Xe000TESTCL01",
+      "elementType": "BOARD",
+      "location": {
+        "rootBoard": true
+      },
+      "content": {
+        "title": "<title>",
+        "icon": null,
+        "color": null,
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#e9785e",
+          "#dda16d",
+          "#d5b3a3",
+          "#d1cbc6",
+          "#accde1",
+          "#98c1d9",
+          "#839fc3"
+        ],
+        "rootType": "WORKSPACE",
+        "inbox": "CLOSED",
+        "mobileInboxAutomaticOpenTimestamp": 1790244113148,
+        "inboxAutomaticOpenTimestamp": 1781538116724,
+        "canvasOrigin": {
+          "x": -7,
+          "y": -8
+        }
+      },
+      "acl": {
+        "000000000000000000000001": 31
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedTime": 1790250877538,
+        "significantModified": 1749730448706,
+        "locationSectionModifiedTime": 1749730448706,
+        "createdTime": 1749730448706,
+        "modifiedBy": "000000000000000000000001"
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL01"
+    },
+    "1Xe000TESTCL08": {
+      "_id": "1Xe000TESTCL08",
+      "elementType": "COLUMN",
+      "location": {
+        "parentId": "1Xe000TESTCL01",
+        "position": {
+          "x": -2,
+          "y": -3,
+          "score": 2555904
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "title": "<title>",
+        "color": "ORANGE",
+        "width": 35.47,
+        "height": 161.78,
+        "background": {
+          "color": null
+        },
+        "transparent": {
+          "enabled": false
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764669452914,
+        "modifiedTime": 1789543140184,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764669452914,
+        "versionId": "vers_0007",
+        "significantModified": 1789543140184
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL08"
+    },
+    "1Xe000TESTCL09": {
+      "_id": "1Xe000TESTCL09",
+      "elementType": "COLUMN",
+      "location": {
+        "parentId": "1Xe000TESTCL01",
+        "position": {
+          "x": 34,
+          "y": -3,
+          "score": 2621440
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "title": "<title>",
+        "color": "DEEP_BLUE",
+        "width": 34,
+        "height": 40.54,
+        "background": {
+          "color": null
+        },
+        "transparent": {
+          "enabled": false
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764669464095,
+        "modifiedTime": 1789543142936,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764669464095,
+        "versionId": "vers_0007",
+        "significantModified": 1789543142936
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL09"
+    },
+    "1Xe000TESTCL0a": {
+      "_id": "1Xe000TESTCL0a",
+      "elementType": "COLUMN",
+      "location": {
+        "parentId": "1Xe000TESTCL01",
+        "position": {
+          "x": 34,
+          "y": 15,
+          "score": 2686976
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "title": "<title>",
+        "color": "PURPLE",
+        "width": 34,
+        "height": 32.6,
+        "background": {
+          "color": null
+        },
+        "transparent": {
+          "enabled": false
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764669591283,
+        "modifiedTime": 1789543148069,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764669591283,
+        "versionId": "vers_0007",
+        "significantModified": 1789543148069
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0a"
+    },
+    "1Xe000TESTCL0b": {
+      "_id": "1Xe000TESTCL0b",
+      "elementType": "COLUMN",
+      "location": {
+        "parentId": "1Xe000TESTCL01",
+        "position": {
+          "x": 77,
+          "y": -3,
+          "score": 2752512
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "title": "<title>"
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1789543180877,
+        "modifiedTime": 1789630736657,
+        "platform": "Windows PWA",
+        "locationSectionModifiedTime": 1789543180877,
+        "versionId": "vers_0008",
+        "significantModified": 1789543195438
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0b"
+    },
+    "1Xe000TESTCL0c": {
+      "_id": "1Xe000TESTCL0c",
+      "elementType": "COLUMN",
+      "location": {
+        "parentId": "1Xe000TESTCL01",
+        "position": {
+          "x": 117,
+          "y": -3,
+          "score": 2818048
+        },
+        "section": "CANVAS"
+      },
+      "content": {
+        "title": "<title>"
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1790067167015,
+        "modifiedTime": 1790067172091,
+        "platform": "Windows PWA",
+        "locationSectionModifiedTime": 1790067167014,
+        "versionId": "vers_0009",
+        "significantModified": 1790067170799
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0c"
+    },
+    "1Xe000TESTCL0d": {
+      "_id": "1Xe000TESTCL0d",
+      "elementType": "ALIAS",
+      "location": {
+        "parentId": "1Xe000TESTCL09",
+        "position": {
+          "index": 0,
+          "score": 0
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "linkTo": "1Xe000TESTCL0e",
+        "originalColor": "#53b2ab",
+        "originalSecondaryColor": null,
+        "originalTitle": "<originalTitle>",
+        "originalIcon": {
+          "type": "mn-svg",
+          "id": "<id>",
+          "name": "<name>",
+          "svg": "<removed>",
+          "png": "<removed>"
+        },
+        "permissionId": "perm_0010",
+        "linkAlias": true,
+        "title": "<title>"
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764668985880,
+        "modifiedTime": 1764671272776,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764669473104,
+        "versionId": "vers_0011",
+        "significantModified": 1764671272776
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0d"
+    },
+    "1Xe000TESTCL0f": {
+      "_id": "1Xe000TESTCL0f",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 1,
+          "score": -98304
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "AAA"
+        },
+        "color": "#0043fa",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#fd4e7a",
+          "#eb728f",
+          "#e8a5c4",
+          "#ddd9bd",
+          "#decc9e",
+          "#dbc07b",
+          "#c7b27b"
+        ],
+        "autoColorIndex": null,
+        "canvasOrigin": {
+          "x": -93,
+          "y": 0
+        },
+        "background": {
+          "color": null
+        },
+        "image": null
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764669677505,
+        "modifiedTime": 1764671453142,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764669677504,
+        "versionId": "vers_0007",
+        "significantModified": 1764670064676
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0f"
+    },
+    "1Xe000TESTCL0g": {
+      "_id": "1Xe000TESTCL0g",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 1,
+          "score": -81920
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "BBB"
+        },
+        "color": "#b85119",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#cd8b69",
+          "#cb997e",
+          "#ddbea9",
+          "#ead5c5",
+          "#d4c7b0",
+          "#b7b7a4",
+          "#b8b882"
+        ],
+        "autoColorIndex": null,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "image": null,
+        "published": true,
+        "publishedTimestamp": 1782488498777,
+        "publishedFeedbackEnabled": true,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764669966609,
+        "modifiedTime": 1782488509271,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764669966609,
+        "versionId": "vers_0007",
+        "significantModified": 1782488498857,
+        "aclModifiedTime": 1782488498857
+      },
+      "__v": 0,
+      "acl": {
+        "key_0012": 9
+      },
+      "id": "1Xe000TESTCL0g"
+    },
+    "1Xe000TESTCL0h": {
+      "_id": "1Xe000TESTCL0h",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 2,
+          "score": -73728
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "CCC"
+        },
+        "color": "#599c3a",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#8bafba",
+          "#a1c8cb",
+          "#82cec7",
+          "#a1dbd0",
+          "#f5ceaa",
+          "#e2aca8",
+          "#f07167"
+        ],
+        "autoColorIndex": null,
+        "image": null,
+        "inbox": "CLOSED",
+        "inboxAutomaticOpenTimestamp": 1768236447946,
+        "canvasOrigin": {
+          "x": -116,
+          "y": 0
+        },
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        },
+        "publicEditEnabled": true,
+        "publicEditEnabledTimestamp": 1768237044843
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764670041223,
+        "modifiedTime": 1768237044989,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764670041223,
+        "versionId": "vers_0007",
+        "significantModified": 1768237044989,
+        "aclModifiedTime": 1768237044989
+      },
+      "__v": 0,
+      "acl": {
+        "000000000000000000000002": 15,
+        "000000000000000000000003": 15,
+        "000000000000000000000004": 15,
+        "key_0013": 15
+      },
+      "id": "1Xe000TESTCL0h"
+    },
+    "1Xe000TESTCL0i": {
+      "_id": "1Xe000TESTCL0i",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 3,
+          "score": -69632
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "DDD"
+        },
+        "color": "YELLOW",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#cd8b69",
+          "#cb997e",
+          "#ddbea9",
+          "#ead5c5",
+          "#d4c7b0",
+          "#b7b7a4",
+          "#b8b882"
+        ],
+        "autoColorIndex": null,
+        "canvasOrigin": {
+          "x": -93,
+          "y": 0
+        },
+        "image": null
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1764671230794,
+        "modifiedTime": 1764671431172,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1764671230794,
+        "versionId": "vers_0007",
+        "significantModified": 1764671431172
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0i"
+    },
+    "1Xe000TESTCL0j": {
+      "_id": "1Xe000TESTCL0j",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 4,
+          "score": -67584
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "EEE"
+        },
+        "color": "CYAN",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#cd8b69",
+          "#cb997e",
+          "#ddbea9",
+          "#ead5c5",
+          "#d4c7b0",
+          "#b7b7a4",
+          "#b8b882"
+        ],
+        "autoColorIndex": null,
+        "canvasOrigin": {
+          "x": -93,
+          "y": 0
+        },
+        "image": null
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1766071239123,
+        "modifiedTime": 1766142531190,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1766142531190,
+        "versionId": "vers_0007",
+        "significantModified": 1766142531190
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0j"
+    },
+    "1Xe000TESTCL0k": {
+      "_id": "1Xe000TESTCL0k",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 5,
+          "score": -66560
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "FFF"
+        },
+        "color": "#e9785e",
+        "secondaryColor": "#431409",
+        "defaultColorPalette": [
+          "#d9ed92",
+          "#99d98c",
+          "#52b69a",
+          "#4aaba2",
+          "#5e9cb9",
+          "#95acbd",
+          "#b8c7d1"
+        ],
+        "autoColorIndex": null,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "image": null,
+        "inbox": "CLOSED",
+        "mobileInboxAutomaticOpenTimestamp": 1767099117205,
+        "published": true,
+        "publishedTimestamp": 1767618014717,
+        "publishedFeedbackEnabled": true,
+        "publicEditEnabled": true,
+        "publicEditEnabledTimestamp": 1767618016504,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1767092229243,
+        "modifiedTime": 1768571871042,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1767092290913,
+        "versionId": "vers_0014",
+        "significantModified": 1768571871042,
+        "aclModifiedTime": 1768571871042
+      },
+      "__v": 0,
+      "acl": {
+        "key_0015": 9,
+        "key_0016": 15,
+        "000000000000000000000002": 15,
+        "000000000000000000000003": 15,
+        "000000000000000000000005": 15
+      },
+      "id": "1Xe000TESTCL0k"
+    },
+    "1Xe000TESTCL0l": {
+      "_id": "1Xe000TESTCL0l",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 6,
+          "score": -66048
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "GGG"
+        },
+        "color": "#accde1",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#75a4be",
+          "#8abbd6",
+          "#6ab8b3",
+          "#b4d9d7",
+          "#db9db7",
+          "#c889a8",
+          "#b992b4"
+        ],
+        "autoColorIndex": null,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "image": null,
+        "publicEditEnabled": true,
+        "publicEditEnabledTimestamp": 1767624022344,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1767604518081,
+        "modifiedTime": 1768235258581,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1767610601794,
+        "versionId": "vers_0017",
+        "significantModified": 1768235258581,
+        "aclModifiedTime": 1768235258581
+      },
+      "__v": 0,
+      "acl": {
+        "key_0018": 15,
+        "000000000000000000000002": 15,
+        "000000000000000000000003": 15
+      },
+      "id": "1Xe000TESTCL0l"
+    },
+    "1Xe000TESTCL0m": {
+      "_id": "1Xe000TESTCL0m",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 8,
+          "score": -65664
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "mn-svg",
+          "id": "<id>",
+          "name": "<name>",
+          "svg": "<removed>",
+          "png": "<removed>"
+        },
+        "color": "#e9785e",
+        "secondaryColor": "#431409",
+        "defaultColorPalette": [
+          "#8bafba",
+          "#a1c8cb",
+          "#82cec7",
+          "#a1dbd0",
+          "#f5ceaa",
+          "#e2aca8",
+          "#f07167"
+        ],
+        "autoColorIndex": 84,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1769777499702,
+        "modifiedTime": 1769779607628,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1769779606380,
+        "versionId": "vers_0019",
+        "significantModified": 1769779606380
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0m"
+    },
+    "1Xe000TESTCL0n": {
+      "_id": "1Xe000TESTCL0n",
+      "elementType": "ALIAS",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 9,
+          "score": -128
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "linkTo": "1Xe000TESTCL0o",
+        "originalColor": "#b090c4",
+        "originalSecondaryColor": "#470806",
+        "originalTitle": "<originalTitle>",
+        "originalIcon": {
+          "type": "mn-svg",
+          "id": "<id>",
+          "name": "<name>",
+          "svg": "<removed>",
+          "png": "<removed>"
+        }
+      },
+      "meta": {
+        "modifiedTime": 1771230480814,
+        "createdTime": 1770627665696,
+        "modifiedBy": "000000000000000000000001",
+        "creator": "000000000000000000000005",
+        "significantModified": 1771230480814,
+        "locationSectionModifiedTime": 1771230480814
+      },
+      "__v": 0,
+      "id": "1Xe000TESTCL0n"
+    },
+    "1Xe000TESTCL0p": {
+      "_id": "1Xe000TESTCL0p",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 10,
+          "score": 65408
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "HHH"
+        },
+        "color": "GREY",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#d9ed92",
+          "#99d98c",
+          "#52b69a",
+          "#4aaba2",
+          "#5e9cb9",
+          "#95acbd",
+          "#b8c7d1"
+        ],
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "autoColorIndex": null,
+        "image": null,
+        "publicEditEnabled": true,
+        "publicEditEnabledTimestamp": 1773825525518,
+        "published": true,
+        "publishedTimestamp": 1773825527121,
+        "publishedFeedbackEnabled": true,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        },
+        "inbox": "CLOSED",
+        "inboxAutomaticOpenTimestamp": 1779177179708
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1773825196167,
+        "modifiedTime": 1779177191662,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1773825296090,
+        "versionId": "vers_0020",
+        "significantModified": 1773825571369,
+        "aclModifiedTime": 1773825571369
+      },
+      "__v": 0,
+      "acl": {
+        "key_0021": 15,
+        "key_0022": 9,
+        "000000000000000000000002": 15,
+        "000000000000000000000004": 15,
+        "000000000000000000000006": 15
+      },
+      "id": "1Xe000TESTCL0p"
+    },
+    "1Xe000TESTCL0q": {
+      "_id": "1Xe000TESTCL0q",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 11,
+          "score": 130944
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "string",
+          "id": "<id>",
+          "string": "III"
+        },
+        "color": "#f6fa05",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#75a4be",
+          "#8abbd6",
+          "#6ab8b3",
+          "#b4d9d7",
+          "#db9db7",
+          "#c889a8",
+          "#b992b4"
+        ],
+        "autoColorIndex": null,
+        "image": null,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "publicEditEnabled": true,
+        "publicEditEnabledTimestamp": 1779697375366,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        },
+        "published": true,
+        "publishedTimestamp": 1782488435148,
+        "publishedFeedbackEnabled": true,
+        "inbox": "CLOSED",
+        "mobileInboxAutomaticOpenTimestamp": 1784110494483,
+        "inboxAutomaticOpenTimestamp": null
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000007",
+        "createdTime": 1779177130572,
+        "modifiedTime": 1790259509136,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1779177196433,
+        "versionId": "vers_0023",
+        "significantModified": 1784109225885,
+        "aclModifiedTime": 1784109225885
+      },
+      "__v": 0,
+      "acl": {
+        "000000000000000000000008": 15,
+        "key_0024": 15,
+        "key_0025": 9,
+        "000000000000000000000004": 15,
+        "000000000000000000000007": 15
+      },
+      "id": "1Xe000TESTCL0q"
+    },
+    "1Xe000TESTCL0r": {
+      "_id": "1Xe000TESTCL0r",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 12,
+          "score": 196480
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "mn-svg",
+          "id": "<id>",
+          "name": "<name>",
+          "svg": "<removed>",
+          "png": "<removed>"
+        },
+        "color": "#e9785e",
+        "secondaryColor": "#431409",
+        "defaultColorPalette": [
+          "#7db6c0",
+          "#9dbec4",
+          "#bcc8cb",
+          "#fefbfc",
+          "#e6ced4",
+          "#e2b4bd",
+          "#e87f93"
+        ],
+        "autoColorIndex": 42,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "publicEditEnabled": true,
+        "publicEditEnabledTimestamp": 1781539173913,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        },
+        "published": true,
+        "publishedTimestamp": 1782488417805,
+        "publishedFeedbackEnabled": true
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1781538198792,
+        "modifiedTime": 1782488417842,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1781538219963,
+        "versionId": "vers_0026",
+        "significantModified": 1782488417842,
+        "aclModifiedTime": 1782488417842
+      },
+      "__v": 0,
+      "acl": {
+        "key_0027": 15,
+        "key_0028": 9
+      },
+      "id": "1Xe000TESTCL0r"
+    },
+    "1Xe000TESTCL0s": {
+      "_id": "1Xe000TESTCL0s",
+      "elementType": "BOARD",
+      "location": {
+        "parentId": "1Xe000TESTCL08",
+        "position": {
+          "index": 13,
+          "score": 262016
+        },
+        "section": "INBOX"
+      },
+      "content": {
+        "title": "<title>",
+        "icon": {
+          "type": "mn-svg",
+          "id": "<id>",
+          "name": "<name>",
+          "svg": "<removed>",
+          "png": "<removed>"
+        },
+        "color": "#accde1",
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#8aabe7",
+          "#acaee1",
+          "#c5c6dc",
+          "#f2d686",
+          "#f7b801",
+          "#f18701",
+          "#f65f0e"
+        ],
+        "autoColorIndex": 43,
+        "canvasOrigin": {
+          "x": -8,
+          "y": 0
+        },
+        "publicEditEnabled": false,
+        "publicEditEnabledTimestamp": 1782488377996,
+        "published": true,
+        "publishedTimestamp": 1782488392332,
+        "publishedFeedbackEnabled": true,
+        "welcomeMessage": {
+          "enabled": false,
+          "textContent": "",
+          "modifier": "000000000000000000000001"
+        }
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedBy": "000000000000000000000001",
+        "createdTime": 1781539467080,
+        "modifiedTime": 1782828396841,
+        "platform": "Desktop web",
+        "locationSectionModifiedTime": 1781539474120,
+        "versionId": "vers_0026",
+        "significantModified": 1782828396841,
+        "aclModifiedTime": 1782488392363
+      },
+      "__v": 0,
+      "acl": {
+        "key_0029": 9
+      },
+      "id": "1Xe000TESTCL0s"
+    }
+  },
+  "comments": {},
+  "labels": {},
+  "errors": {},
+  "childrenReturned": {
+    "1Xe000TESTCL01": true
+  },
+  "canvasOrder": {},
+  "boardIds": [
+    "1Xe000TESTCL01"
+  ],
+  "elementCount": 49,
+  "commentCount": 0,
+  "errorCount": 0,
+  "fetchedTime": 1791467099216
+}

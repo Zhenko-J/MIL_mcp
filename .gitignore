@@ -1,0 +1,7 @@
+captures/
+node_modules/
+dist/
+.env
+# Briefs et notes de travail internes, hors depot public
+milanote-mcp-brief.json
+milanote-rea-session.json

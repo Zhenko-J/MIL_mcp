@@ -1,0 +1,33 @@
+{
+  "type": "USER_NAVIGATE",
+  "newBoardId": "1Xe000TESTCL01",
+  "permissionId": null,
+  "permission": 31,
+  "timestamp": 1791469527360,
+  "userId": "000000000000000000000001",
+  "persist": true,
+  "sync": true,
+  "navigationSource": "web",
+  "monitoring": {
+    "operation": "GENERAL",
+    "requestMode": "bufferFlush"
+  },
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT01",
+    "clientTick": 814
+  },
+  "activity": {
+    "track": true,
+    "isPreviousBoardShared": false,
+    "isNewBoardShared": false
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL01-LIVE",
+    "000000000000000000000001"
+  ],
+  "bufferFlush": true,
+  "replay": true
+}

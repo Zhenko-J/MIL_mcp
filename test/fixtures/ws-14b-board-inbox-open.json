@@ -1,0 +1,33 @@
+{
+  "type": "ELEMENT_UPDATE",
+  "updates": [
+    {
+      "id": "1Xe000TESTCL13",
+      "changes": {
+        "inbox": "OPEN",
+        "inboxAutomaticOpenTimestamp": 1794837893064
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1794837893064,
+  "recalculateChannels": false,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT11",
+    "clientTick": 805
+  },
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02",
+    "elementTypes": {
+      "1Xe000TESTCL13": "BOARD"
+    }
+  },
+  "deviceId": "devi_0011",
+  "sessionId": "sess_0012",
+  "channels": [
+    "1Xe000TESTCL02",
+    "1Xe000TESTCL13"
+  ]
+}

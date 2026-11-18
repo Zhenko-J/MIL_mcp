@@ -1,0 +1,31 @@
+{
+  "type": "ELEMENT_UPDATE",
+  "updates": [
+    {
+      "id": "1Xe000TESTCL12",
+      "changes": {
+        "title": "COL-TEST"
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1794837944460,
+  "recalculateChannels": false,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT11",
+    "clientTick": 364
+  },
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02",
+    "elementTypes": {
+      "1Xe000TESTCL12": "COLUMN"
+    }
+  },
+  "deviceId": "devi_0011",
+  "sessionId": "sess_0012",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

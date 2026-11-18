@@ -1,0 +1,45 @@
+{
+  "type": "ELEMENT_UPDATE",
+  "updates": [
+    {
+      "id": "1Xe000TESTCL05",
+      "changes": {
+        "image": {
+          "width": 64,
+          "height": 64,
+          "original": "https://app.milanote.com/media/p/images/1Xe000TESTCL05/xyz/mcp-test-image.png",
+          "transparent": false
+        },
+        "file": {
+          "type": "IMAGE",
+          "ext": "png",
+          "mime": "image/png",
+          "filename": "mcp-test-image.png",
+          "size": 7828,
+          "lastModified": 1791469673953
+        }
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1791469746196,
+  "recalculateChannels": false,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT02",
+    "clientTick": 12
+  },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02",
+    "elementTypes": {
+      "1Xe000TESTCL05": "IMAGE"
+    }
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

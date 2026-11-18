@@ -1,0 +1,79 @@
+{
+  "type": "ELEMENT_UPDATE",
+  "updates": [
+    {
+      "id": "1Xe000TESTCL04",
+      "changes": {
+        "textContent": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "key": "be7iQ",
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Titre test MCP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "key": "ZsLwN",
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Texte de test "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "gras"
+                },
+                {
+                  "type": "text",
+                  "text": " fin."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "meta": {
+        "modifiedVersionId": "modi_0004",
+        "versionId": "vers_0005"
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1791469649147,
+  "recalculateChannels": false,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT02",
+    "clientTick": 11
+  },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02",
+    "elementTypes": {
+      "1Xe000TESTCL04": "CARD"
+    }
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

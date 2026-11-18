@@ -1,0 +1,45 @@
+{
+  "id": "1Xe000TESTCL03",
+  "location": {
+    "parentId": "1Xe000TESTCL02",
+    "section": "CANVAS",
+    "position": {
+      "x": 25,
+      "y": 13,
+      "score": 65536
+    }
+  },
+  "content": {
+    "url": null
+  },
+  "meta": {
+    "creator": "000000000000000000000001",
+    "modifiedBy": "000000000000000000000001",
+    "createdTime": 1791469608658,
+    "modifiedTime": 1791469608658,
+    "platform": "Desktop web",
+    "locationSectionModifiedTime": 1791469608658,
+    "versionId": "vers_0003"
+  },
+  "elementType": "LINK",
+  "type": "ELEMENT_CREATE",
+  "timestamp": 1791469608658,
+  "sync": true,
+  "creationSource": "TOOLBAR",
+  "markAsFetched": true,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT02",
+    "clientTick": 10
+  },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02"
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

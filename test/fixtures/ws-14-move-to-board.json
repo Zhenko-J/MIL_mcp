@@ -1,0 +1,51 @@
+{
+  "type": "ELEMENT_MOVE_MULTI",
+  "moves": [
+    {
+      "id": "1Xe000TESTCL11",
+      "location": {
+        "parentId": "1Xe000TESTCL13",
+        "section": "INBOX",
+        "position": {
+          "index": 0,
+          "score": 0
+        }
+      },
+      "from": {
+        "parentId": "1Xe000TESTCL12",
+        "position": {
+          "index": 0,
+          "score": 0
+        },
+        "section": "INBOX"
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1794837893045,
+  "moveOperation": "DROP",
+  "monitoring": {
+    "operation": "DROP"
+  },
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT11",
+    "clientTick": 805
+  },
+  "activity": {
+    "track": false,
+    "sourceBoardId": "1Xe000TESTCL02",
+    "isSourceShared": false,
+    "destinationBoardId": "1Xe000TESTCL13",
+    "isDestinationShared": false,
+    "elementTypes": {
+      "1Xe000TESTCL11": "CARD"
+    }
+  },
+  "deviceId": "devi_0011",
+  "sessionId": "sess_0012",
+  "channels": [
+    "1Xe000TESTCL13",
+    "1Xe000TESTCL02"
+  ]
+}

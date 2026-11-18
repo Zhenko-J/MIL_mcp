@@ -1,0 +1,41 @@
+{
+  "token": "<removed>",
+  "permissions": [
+    {
+      "_id": "perm_0010",
+      "aclId": "aclI_0030",
+      "boardId": "1Xe000TESTCL0e",
+      "type": "PUBLIC",
+      "permission": 15,
+      "status": "ACTIVE",
+      "creatorId": "000000000000000000000002",
+      "createdTimestamp": 1761643181081,
+      "updatedTimestamp": 1761643181081,
+      "__v": 0
+    },
+    {
+      "_id": "last_0006",
+      "aclId": "aclI_0031",
+      "boardId": "1Xe000TESTCL07",
+      "type": "PUBLIC",
+      "permission": 15,
+      "status": "ACTIVE",
+      "creatorId": "000000000000000000000007",
+      "createdTimestamp": 1780991837501,
+      "updatedTimestamp": 1780991837501,
+      "__v": 0
+    },
+    {
+      "_id": "id_0032",
+      "aclId": "aclI_0033",
+      "boardId": "1Xe000TESTCL0t",
+      "type": "PUBLIC",
+      "permission": 15,
+      "status": "ACTIVE",
+      "creatorId": "000000000000000000000007",
+      "createdTimestamp": 1756993619497,
+      "updatedTimestamp": 1756993619497,
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+milanote-mcp
+Copyright 2026 Zhenko-J
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This is an unofficial project. It is not affiliated with, endorsed by, or sponsored by
+Milanote. "Milanote" is a trademark of its respective owner. The server talks to the
+internal API of the Milanote web client, which is undocumented and may change at any time.
+Use it with your own account, at your own risk, and in accordance with Milanote's terms.

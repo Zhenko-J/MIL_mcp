@@ -1,0 +1,46 @@
+{
+  "offset": 0,
+  "total": 2,
+  "size": 2,
+  "results": [
+    {
+      "_id": "1Xe000TESTCL02",
+      "board": {
+        "_id": "1Xe000TESTCL02",
+        "elementType": "BOARD",
+        "location": { "parentId": "1Xe000TESTCL01", "position": { "x": 67, "y": 58, "score": 2883584 }, "section": "CANVAS" },
+        "content": {
+          "title": "MCP-TEST",
+          "icon": { "type": "mn-svg", "id": "game-console-handheld", "name": "Handheld Game Console", "svg": "<removed>", "png": "<removed>" },
+          "color": "#839fc3",
+          "secondaryColor": null,
+          "defaultColorPalette": ["#7db4c0", "#80c7ca", "#a8dadc", "#c9d4c7", "#e4d1b6", "#f09035", "#ed6c18"],
+          "autoColorIndex": 75,
+          "inbox": "CLOSED",
+          "inboxAutomaticOpenTimestamp": 1791469745499
+        },
+        "meta": {
+          "creator": "000000000000000000000001",
+          "modifiedBy": "000000000000000000000001",
+          "createdTime": 1791469540587,
+          "modifiedTime": 1791470815442,
+          "platform": "Desktop web",
+          "locationSectionModifiedTime": 1791469540587,
+          "versionId": "vers_0005",
+          "significantModified": 1791469544293
+        },
+        "__v": 0
+      },
+      "modifiedTime": 1791470815442,
+      "viewedTime": 0,
+      "score": 14.421275,
+      "elementCounts": {},
+      "ancestors": [{ "_id": "1Xe000TESTCL01", "title": "<title>" }],
+      "innerHits": [{ "_id": "1Xe000TESTCL02", "elementType": "BOARD", "content": ["[hit]MCP[/hit]-TEST"], "labels": [] }],
+      "ownerId": "000000000000000000000001",
+      "userIds": ["000000000000000000000001"]
+    }
+  ],
+  "sort": "viewed",
+  "timestamp": 1791550523836
+}

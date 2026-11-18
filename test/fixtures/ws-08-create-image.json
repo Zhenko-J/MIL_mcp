@@ -1,0 +1,44 @@
+{
+  "id": "1Xe000TESTCL05",
+  "location": {
+    "parentId": "1Xe000TESTCL02",
+    "section": "INBOX",
+    "position": {
+      "index": 0,
+      "score": 0
+    }
+  },
+  "content": {
+    "image": null
+  },
+  "meta": {
+    "creator": "000000000000000000000001",
+    "modifiedBy": "000000000000000000000001",
+    "createdTime": 1791469745485,
+    "modifiedTime": 1791469745485,
+    "platform": "Desktop web",
+    "locationSectionModifiedTime": 1791469745485,
+    "versionId": "vers_0003"
+  },
+  "elementType": "IMAGE",
+  "type": "ELEMENT_CREATE",
+  "timestamp": 1791469745485,
+  "sync": true,
+  "creationSource": "IMAGE_UPLOAD_POPUP",
+  "markAsFetched": true,
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT02",
+    "clientTick": 12
+  },
+  "tokens": [],
+  "activity": {
+    "track": false,
+    "boardId": "1Xe000TESTCL02"
+  },
+  "deviceId": "devi_0001",
+  "sessionId": "sess_0002",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

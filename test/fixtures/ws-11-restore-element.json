@@ -1,0 +1,59 @@
+{
+  "type": "ELEMENT_MOVE_MULTI",
+  "moves": [
+    {
+      "id": "1Xe000TESTCL11",
+      "location": {
+        "parentId": "1Xe000TESTCL02",
+        "section": "CANVAS",
+        "position": {
+          "x": 62,
+          "y": 24,
+          "score": 65536
+        }
+      },
+      "from": {
+        "parentId": "1Xe000TESTCL02-trash",
+        "position": {
+          "addedDate": 1794837712875,
+          "restoreLocation": {
+            "parentId": "1Xe000TESTCL02",
+            "position": {
+              "x": 25,
+              "y": -14,
+              "score": 65536
+            },
+            "section": "CANVAS"
+          }
+        },
+        "section": "TRASH"
+      }
+    }
+  ],
+  "sync": true,
+  "timestamp": 1794837780691,
+  "moveOperation": "DROP",
+  "monitoring": {
+    "operation": "DROP"
+  },
+  "user": {
+    "_id": "000000000000000000000001",
+    "clientId": "CLNT11",
+    "clientTick": 909
+  },
+  "activity": {
+    "track": false,
+    "sourceBoardId": "1Xe000TESTCL02-trash",
+    "isSourceShared": false,
+    "destinationBoardId": "1Xe000TESTCL02",
+    "isDestinationShared": false,
+    "elementTypes": {
+      "1Xe000TESTCL11": "CARD"
+    }
+  },
+  "deviceId": "devi_0011",
+  "sessionId": "sess_0012",
+  "channels": [
+    "1Xe000TESTCL02"
+  ]
+}

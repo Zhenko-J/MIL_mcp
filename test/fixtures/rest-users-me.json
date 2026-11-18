@@ -1,0 +1,164 @@
+{
+  "user": {
+    "_id": "000000000000000000000001",
+    "email": "<email>",
+    "emailVerifiedDate": 1788249621302,
+    "name": {
+      "givenName": "<givenName>",
+      "familyName": "<familyName>",
+      "displayName": "<displayName>"
+    },
+    "role": "USER",
+    "status": "ACTIVE",
+    "local": {
+      "password": "<removed>"
+    },
+    "contentLimit": {
+      "default": 100,
+      "maxReferralBonus": 100,
+      "exceeded": false,
+      "current": 9999999999999,
+      "giftBonus": 0,
+      "referralBonus": 0
+    },
+    "segments": [],
+    "userSegment": "<removed>",
+    "accountCreationDate": 1749730448704,
+    "accountRegistrationDate": 1749730448704,
+    "graphDbSyncDate": 1749730448704,
+    "lastCheckedNotifications": 1790583673335,
+    "lastMarkedNotificationsAsSeen": 0,
+    "lastCheckedQuickNotes": 1774278883732,
+    "education": 406965233,
+    "onboarding": null,
+    "settings": {
+      "language": "fr-FR",
+      "email": 255,
+      "pushNotifications": 255,
+      "showGrid": true,
+      "pushCards": true,
+      "enableTemplatePicker": true,
+      "enableDrawingInkEffect": true,
+      "enableDoubleClickToCreateNotes": true,
+      "disableSerifHeadings": false,
+      "enableUndoRedoButtons": true,
+      "enableUndoRedoButtonsForIpad": true,
+      "enableAnonymousViewing": false,
+      "reactionsSkinTone": null,
+      "reactionsRecent": null,
+      "primaryTools": {
+        "CARD": true,
+        "LINK": true,
+        "TASK_LIST": true,
+        "LINE": true,
+        "BOARD": true,
+        "COLUMN": true,
+        "TABLE": true,
+        "COMMENT_THREAD": true,
+        "IMAGE": true,
+        "FILE": true,
+        "ANNOTATION": true,
+        "AI_ASSISTANT_TOOL": true,
+        "LINK-AUDIO": false,
+        "LINK-VIDEO": false,
+        "LINK-MAP": false,
+        "CARD-HEADER": false,
+        "SKETCH": true,
+        "COLOR_SWATCH": true,
+        "DOCUMENT": true
+      },
+      "primaryToolsTouch": null,
+      "preferredColorDisplay": "HEX",
+      "enableFeatureSuggestion": {
+        "clone": null,
+        "title": null
+      },
+      "browserExtensions": "<removed>",
+      "languagePreference": null,
+      "currencyPreference": "USD",
+      "localePreference": "fr-fr",
+      "timeFormatPreference": "24h",
+      "enableHaptics": true
+    },
+    "flags": {
+      "graphDbSynced": true,
+      "boardSearchIndexComplete": true,
+      "customTemplatesGraphMigration": true
+    },
+    "usedPlatforms": [
+      "<usedPlatforms>"
+    ],
+    "rootBoardId": "1Xe000TESTCL01",
+    "quickNotesRootId": "1Xe000TESTCL06",
+    "__v": 2,
+    "lastAccessDate": 1791462392407,
+    "timezone": -120,
+    "subscriptionId": "<removed>",
+    "subscriptionMeta": {
+      "requiredDomains": []
+    },
+    "apple": null,
+    "google": null,
+    "clientId": "CLNT03",
+    "clientTick": 593,
+    "lastViewedBoard": "1Xe000TESTCL07",
+    "lastViewedBoardPermissionId": "last_0006",
+    "subscription": {
+      "active": true,
+      "status": "active",
+      "planName": "<planName>"
+    },
+    "referrerCode": "<removed>",
+    "referralCount": 0,
+    "authMethods": [
+      "PASSWORD"
+    ],
+    "experiments": [],
+    "otToken": "<removed>"
+  },
+  "analytics": [],
+  "elements": {
+    "1Xe000TESTCL01": {
+      "location": {
+        "rootBoard": true
+      },
+      "_id": "1Xe000TESTCL01",
+      "elementType": "BOARD",
+      "content": {
+        "title": "<title>",
+        "icon": null,
+        "color": null,
+        "secondaryColor": null,
+        "defaultColorPalette": [
+          "#e9785e",
+          "#dda16d",
+          "#d5b3a3",
+          "#d1cbc6",
+          "#accde1",
+          "#98c1d9",
+          "#839fc3"
+        ],
+        "rootType": "WORKSPACE",
+        "inbox": "CLOSED",
+        "mobileInboxAutomaticOpenTimestamp": 1790244113148,
+        "inboxAutomaticOpenTimestamp": 1781538116724,
+        "canvasOrigin": {
+          "x": -7,
+          "y": -8
+        }
+      },
+      "acl": {
+        "000000000000000000000001": 31
+      },
+      "meta": {
+        "creator": "000000000000000000000001",
+        "modifiedTime": 1790250877538,
+        "significantModified": 1749730448706,
+        "locationSectionModifiedTime": 1749730448706,
+        "createdTime": 1749730448706,
+        "modifiedBy": "000000000000000000000001"
+      },
+      "id": "1Xe000TESTCL01"
+    }
+  }
+}
